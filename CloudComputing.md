@@ -47,6 +47,8 @@ Although you save your cost of spending on whole infrastructure and its manageme
 #### Security 
 Security of data is a big concern for everyone. Since the public cloud utilizes the internet, your data may become vulnerable.
 
+It is easy to see how the advantages of cloud computing simply outweigh the drawbacks. Decreased costs, reduced downtime, and less management effort are benefits that speak for themselves.
+
 
 
 
