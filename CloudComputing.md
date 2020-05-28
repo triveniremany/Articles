@@ -51,11 +51,11 @@ It is easy to see how the advantages of cloud computing simply outweigh the draw
 
 ## Top 5 Cloud Computing Services
 
+ 1. Microsoft Azure 
  1. Amazon Web Services
- 1. Microsoft Azure. 
- 1. Google Cloud. 
- 1. SalesForce. 
- 1. IBM Cloud. 
+ 1. Salesforce 
+ 1. SAP 
+ 1. IBM Cloud
  
  
 
