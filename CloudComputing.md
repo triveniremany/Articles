@@ -10,8 +10,6 @@ Pros and Cons of Cloud Computing
 
 Pros|Cons
 ----|----
-* No administrative or management hassles| * Limited control of infrastructure
-* Easy accessibility</li>| * Restricted or limited flexibility
-* Pay per use| * Ongoing costs
-* Reliability	| * Security
+* No administrative or management hassles |* Limited control of infrastructure
+
 
