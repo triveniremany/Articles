@@ -1,6 +1,6 @@
 # **Cloud Computing**
-## What is Cloud Computing?
-<hr>
+## <u>What is Cloud Computing?</u>
+
 Cloud computing means storing and accessing data and programs over the Internet instead of your computer's hard drive. It is the on-demand availability of data storage resources(cloud storage) and computing power, without direct active management by the user.
 
 ![Cloud](images/image1.jpg)
@@ -53,8 +53,7 @@ It is easy to see how the advantages of cloud computing simply outweigh the draw
 
 ![](images/image2.jpg)
 
-## Top 5 Cloud Computing Services
-<hr>
+## <u>Top 5 Cloud Computing Services</u>
 
  1. Microsoft Azure 
  1. Amazon Web Services
