@@ -49,6 +49,15 @@ Security of data is a big concern for everyone. Since the public cloud utilizes 
 
 It is easy to see how the advantages of cloud computing simply outweigh the drawbacks. Decreased costs, reduced downtime, and less management effort are benefits that speak for themselves.
 
+## Top 5 Cloud Computing Services
+
+ 1. Amazon Web Services (AWS) Amazon Web Services (AWS) is a giant that enables companies across the globe to develop their digital infrastructure entirely or partially using the cloud. 
+ 1. Microsoft Azure. 
+ 1. Google Cloud. 
+ 1. SalesForce. 
+ 1. IBM Cloud. 
+ 
+ 
 
 
 
