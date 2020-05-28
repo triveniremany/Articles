@@ -33,7 +33,19 @@ This decides your billing also -you only pay for what you use and how much you u
 #### Reliability
 Your infrastructure in the cloud increases the reliability and availability of applications and services. Cloud services run on pooled and redundant infrastructure which provides you with a higher availability of IT services.
 
+### Cons
 
+####Limited control of infrastructure
+Since you are not the owner of the infrastructure of the cloud, hence you don’t have any control or have limited access to the cloud infra.
+
+#### Restricted or limited flexibility 
+The cloud provides a huge list of services, but consuming them comes with a lot of restrictions and limited flexibility for your applications or developments. Also, platform dependency or ‘vendor lock-in’ can sometimes make it difficult for you to migrate from one provider to another.
+
+#### Ongoing costs 
+Although you save your cost of spending on whole infrastructure and its management, on the cloud, you need to keep paying for services as long as you use them. But in traditional methods, you only need to invest once.
+
+#### Security 
+Security of data is a big concern for everyone. Since the public cloud utilizes the internet, your data may become vulnerable.
 
 
 
