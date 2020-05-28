@@ -17,17 +17,17 @@ Reliability|Security
 
 Everyone should certainly analyze their current IT infrastructure, weigh their limitations and workload or application restrictions, if any, and then evaluate whether the cloud will solve or remove their present issues and limitations.
 
-###No cost on infrastructure: Cloud computing is divided into three major categories as per the services: Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS).
+### No cost on infrastructure: Cloud computing is divided into three major categories as per the services: Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS).
 
 In all these categories, one thing is common that you don’t need to invest in hardware or any infrastructure. In general, every organization has to spend a lot on their IT infrastructure to set up and hire a specialized team.
 
 Servers, network devices, ISP connections, storage, and software – these are the major things on which you need to invest if we talk about general IT infrastructure.
 
-###Accessibility and pay per use: Cloud resources are easily accessible from around the globe – anytime, anywhere and from any device and you have complete access to your resources.
+### Accessibility and pay per use: Cloud resources are easily accessible from around the globe – anytime, anywhere and from any device and you have complete access to your resources.
 
 This decides your billing also -you only pay for what you use and how much you use. It’s like your phone or electricity bill. But with other IT infrastructure, one spends the complete amount in one go and it is very very rare that those resources are used optimally and thus, the investment goes waste.
 
-###Reliability: Your infrastructure in the cloud increases the reliability and availability of applications and services. Cloud services run on pooled and redundant infrastructure which provides you with a higher availability of IT services.
+### Reliability: Your infrastructure in the cloud increases the reliability and availability of applications and services. Cloud services run on pooled and redundant infrastructure which provides you with a higher availability of IT services.
 
 
 
