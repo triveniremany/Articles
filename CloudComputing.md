@@ -1,4 +1,4 @@
-# **Cloud Computing*
+# **Cloud Computing**
 
 
 ## What is Cloud Computing?
@@ -9,7 +9,7 @@ Cloud computing means storing and accessing data and programs over the Internet 
 
 For it to be considered "cloud computing," you need to access your data or your programs over the Internet, or at the very least, have that data synced with other information over the Web. In a big business, you may know all there is to know about what's on the other side of the connection; as an individual user, you may never have any idea what kind of massive data processing is happening on the other end. The end result is the same: with an online connection, cloud computing can be done anywhere, anytime.
 
-## <u>Pros and Cons of Cloud Computing</u>
+## Pros and Cons of Cloud Computing
 
 Pros|Cons
 ----|----
@@ -55,7 +55,7 @@ It is easy to see how the advantages of cloud computing simply outweigh the draw
 
 ![](images/image2.jpg)
 
-## <u>Top 5 Cloud Computing Services</u>
+## Top 5 Cloud Computing Services
 
  1. Microsoft Azure 
  1. Amazon Web Services
