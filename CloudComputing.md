@@ -63,7 +63,7 @@ It is easy to see how the advantages of cloud computing simply outweigh the draw
  1. SAP 
  1. IBM Cloud
  
- ![](images/image2.jpg)
+ 
 
 
 
