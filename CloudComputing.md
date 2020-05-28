@@ -18,6 +18,7 @@ Reliability|Security
 Everyone should certainly analyze their current IT infrastructure, weigh their limitations and workload or application restrictions, if any, and then evaluate whether the cloud will solve or remove their present issues and limitations.
 
 ### Pros
+
 #### No cost on infrastructure
 Cloud computing is divided into three major categories as per the services: Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS).
 
@@ -57,7 +58,7 @@ It is easy to see how the advantages of cloud computing simply outweigh the draw
  1. SAP 
  1. IBM Cloud
  
- 
+ ![](images/image2.jpg)
 
 
 
