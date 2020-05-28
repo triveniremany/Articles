@@ -9,7 +9,7 @@ For it to be considered "cloud computing," you need to access your data or your 
 Pros and Cons of Cloud Computing
 
 Pros|Cons
----------
+----|----
 
 1.No administrative or management hassles|1.Limited control of infrastructure
 1.Easy accessibility	|1.Restricted or limited flexibility
