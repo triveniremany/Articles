@@ -55,7 +55,7 @@ It is easy to see how the advantages of cloud computing simply outweigh the draw
 
 ![](images/image2.jpg)
 
-## Top 5 Cloud Computing Services
+## Top 5 Cloud Computing Service Providers
 
  1. Microsoft Azure 
  1. Amazon Web Services
