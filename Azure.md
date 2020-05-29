@@ -5,11 +5,10 @@ At its core, Azure is a public cloud computing platform—with solutions includi
 
 ### Infrastructure as a Service (IaaS)
 
-![](images/image3.jpg)
 <table border =0>
 <tr>
 <td>
-![](images/image3.jpg)
+<img src="images/image3.jpg">
 </td>
 <td>
 IaaS quickly scales up and down with demand, letting you pay only for what you use. It helps you avoid the expense and complexity of buying and managing your own physical servers and other datacenter infrastructure. Each resource is offered as a separate service component, and you only need to rent a particular one for as long as you need it. A cloud computing service provider, such as Azure, manages the infrastructure, while you purchase, install, configure, and manage your own software—operating systems, middleware, and applications.
