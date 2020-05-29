@@ -7,7 +7,7 @@ At its core, Azure is a public cloud computing platform—with solutions includi
 
 <table border =0>
 <tr>
-<td width=500>
+<td width=500  align="center">
 <img src="images/image3.jpg">
 </td>
 <td width=500>
