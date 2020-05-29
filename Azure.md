@@ -5,7 +5,7 @@ At its core, Azure is a public cloud computing platform—with solutions includi
 
 ### Infrastructure as a Service (IaaS)
 
-<table border ="none">
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td width=500  align="center">
 <img src="images/image3.jpg">
