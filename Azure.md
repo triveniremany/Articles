@@ -1,7 +1,7 @@
 
-<head>
+
 <link rel="stylesheet" href="css/azure.css">
-</head>
+
 # Microsoft Azure
 
 ## What is Azure?
