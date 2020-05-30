@@ -46,7 +46,7 @@ Software as a service <b>(SaaS)</b> allows users to connect to and use cloud-bas
 </table>
 
 ## Microsoft Azure Features
-1. Improved Backup and Disaster Recovery
+1. Improved Backup and Disaster Recovery&nbsp;&nbsp;
 	Azure is a backup and disaster recovery dream tool. Why? Because of its flexibility, advanced site recovery, and built-in integration.
 1. Develop and Host Web and Mobile Apps
 1. Integration with Active Directory
