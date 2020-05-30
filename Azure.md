@@ -32,8 +32,6 @@ This is a platform allowing customers to develop, run, and manage applications w
 </tr>
 </table>
 
-This is a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
-
 ### Software as a Service (SaaS)
 
 <table cellspacing="0" cellpadding="0">
