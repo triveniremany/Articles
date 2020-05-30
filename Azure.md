@@ -21,10 +21,30 @@ IaaS quickly scales up and down with demand, letting you pay only for what you u
 </table>
 
 ### Platform as a Service (PaaS)
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td width=500  align="center">
+<img src="images/image4.png">
+</td>
+<td width=500>
+This is a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+</td>
+</tr>
+</table>
 
 This is a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
 
 ### Software as a Service (SaaS)
 
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td width=500  align="center">
+<img src="images/image5.png">
+</td>
+<td width=500>
 Software as a service (SaaS) is a software distribution model in which a third-party provider hosts applications and makes them available to customers over the Internet. SaaS is one of three main categories of cloud computing, alongside infrastructure as a service (IaaS) and platform as a service (PaaS)
+</td>
+</tr>
+</table>
+
 
