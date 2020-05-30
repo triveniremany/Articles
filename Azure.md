@@ -15,7 +15,7 @@ At its core, Azure is a public cloud computing platform—with solutions includi
 <img src="images/image3.jpg">
 </td>
 <td width=500>
-IaaS quickly scales up and down with demand, letting you pay only for what you use. It helps you avoid the expense and complexity of buying and managing your own physical servers and other datacenter infrastructure. Each resource is offered as a separate service component, and you only need to rent a particular one for as long as you need it. A cloud computing service provider, such as Azure, manages the infrastructure, while you purchase, install, configure, and manage your own software—operating systems, middleware, and applications.
+Infrastructure as a service <bold>(IaaS)</bold> is an instant computing infrastructure, provisioned and managed over the internet. ... A cloud computing service provider, such as <bold> Azure</bold>, manages the infrastructure, while you purchase, install, configure, and manage your own software—operating systems, middleware, and applications.
 </td>
 </tr>
 </table>
@@ -27,7 +27,7 @@ IaaS quickly scales up and down with demand, letting you pay only for what you u
 <img src="images/image4.png">
 </td>
 <td width=500>
-This is a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+<bold>Azure</bold> Platform As A Service. Platform as a service <bold>(PaaS)</bold> is a deployment and development environment within the cloud that delivers simple cloud-based apps to complex, cloud-enabled applications. ... <bold>Azure</bold> Cloud Services has two main components; the application files such as the source code, DLL, etc.
 </td>
 </tr>
 </table>
@@ -40,7 +40,7 @@ This is a platform allowing customers to develop, run, and manage applications w
 <img src="images/image5.png">
 </td>
 <td width=500>
-Software as a service (SaaS) is a software distribution model in which a third-party provider hosts applications and makes them available to customers over the Internet. SaaS is one of three main categories of cloud computing, alongside infrastructure as a service (IaaS) and platform as a service (PaaS)
+Software as a service <bold>(SaaS)</bold> allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring and office tools (such as Microsoft Office 365). <bold>SaaS</bold> provides a complete software solution which you purchase on a pay-as-you-go basis from a cloud service provider.
 </td>
 </tr>
 </table>
