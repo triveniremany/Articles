@@ -5,7 +5,7 @@
 # Microsoft Azure
 
 ## What is Azure?
-At its core, Azure is a public cloud computing platform—with solutions including <b>Infrastructure as a Service (IaaS)</b>, <b>Platform as a Service (PaaS</b>), and <b>Software as a Service (SaaS)</b> that can be used for services such as analytics, virtual computing, storage, networking, and much more. It can be used to replace or supplement your on-premise servers.
+At its core, Azure is a public cloud computing platform—with solutions including <b>Infrastructure as a Service (IaaS)</b>, <b>Platform as a Service (PaaS)</b>, and <b>Software as a Service (SaaS)</b> that can be used for services such as analytics, virtual computing, storage, networking, and much more. It can be used to replace or supplement your on-premise servers.
 
 ### Infrastructure as a Service (IaaS)
 
@@ -19,3 +19,12 @@ IaaS quickly scales up and down with demand, letting you pay only for what you u
 </td>
 </tr>
 </table>
+
+### <font color ="red">Platform as a Service (PaaS)</font>
+
+This is a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+
+### Software as a Service (SaaS)
+
+Software as a service (SaaS) is a software distribution model in which a third-party provider hosts applications and makes them available to customers over the Internet. SaaS is one of three main categories of cloud computing, alongside infrastructure as a service (IaaS) and platform as a service (PaaS)
+
