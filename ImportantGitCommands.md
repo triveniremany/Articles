@@ -8,3 +8,10 @@ Below are some of the basic commands every beginner should know to navigate the 
 ## 2. Branch
       git branch <branch name>
   This would create a branch which allows for developers to work parallelly.
+
+### 3. Status
+    git status
+This command will give a status of the client and information as to if it has to be updated
+  1. Number of Commits
+  1. Number of adds
+
