@@ -35,3 +35,4 @@ It’s important to know that a request is made up of four things:
 * The headers
 * The data (or body)
 * The endpoint (or route) is the url you request for. It follows this structure:
+![REST API](/images/restapi.jpg)
