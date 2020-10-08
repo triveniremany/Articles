@@ -3,17 +3,11 @@
 
 Create compelling visual experiences through interpretation of images on a device of your choice. Enrich the search experience with visually similar images and products from your business, and use Bing Visual Search to recognize celebrities, monuments, artwork, and other related objects. Identify barcodes or extract textual information from images to provide rich insights—all through the single API.
 
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/VisualSearch1.png)
+
 
 
 **Search results**
 
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%201.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%202.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%203.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%204.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%205.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%206.jpg)
 
 
 ### Discover intelligent context identification

@@ -2,26 +2,6 @@
 
 Enable apps and services to harness the power of a Web-scale, ad-free search engine with Search. Use search services to find exactly what you’re looking for across billions of web pages, images, videos, and news search results.
 
-[Bing Spell Check](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/BingSpellCheck.md).
-
-[Bing Visual Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-visual-search/).
-
-[Bing Entity Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-entity-search-api/).
-
-[Bing News Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-news-search-api/).
-
-[Bing Auto Suggest](https://azure.microsoft.com/en-us/services/cognitive-services/autosuggest/).
-
-[Bing web Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/)
-
-[Bing Custom Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-custom-search/)
-
-[Bing Video Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-video-search-api/)
-
-[Bing Image Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/)
-
-[Bing Local Business](https://azure.microsoft.com/en-us/services/cognitive-services/bing-local-business-search/)
-
 # Bing Entity Search
 
 Bring rich context about people, places, things, and local businesses to your apps through entity information for a more engaging user experience.
@@ -50,27 +30,26 @@ Multiple spell check modes enable you to get corrections focused on grammar and/
 1. __Word Breaks__
     1. Correct word-breaking issues with a single flag.
     
-    ![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/word-breaks.png)
+   
 
 2. __Slang__
     1. Easily recognize slang and informal language.
     
-    ![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/slang.png)
+   
 
 3. __Names__
     1. Spot common name errors in context.
     
-    ![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/names.png)    
+     
     
 3. __Homonyms__
     1. Fix homonyms and other hard-to-spot errors in context.
     
-    ![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/brands.png)
-
+   
 4. __Brands__
     1. Provide support for new brands and other coined expressions as they emerge.
     
-    ![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/brands.png)
+  
 
 The Bing Spell Check API is easy to call from any [programming language ](https://en.wikipedia.org/wiki/List_of_programming_languages)that can make HTTP requests and parse JSON responses. The service is accessible using the REST API or the Bing Spell Check SDKs.
 
@@ -79,17 +58,12 @@ The Bing Spell Check API is easy to call from any [programming language ](https:
 
 Create compelling visual experiences through interpretation of images on a device of your choice. Enrich the search experience with visually similar images and products from your business, and use Bing Visual Search to recognize celebrities, monuments, artwork, and other related objects. Identify barcodes or extract textual information from images to provide rich insights—all through the single API.
 
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/VisualSearch1.png)
+
 
 
 **Search results**
 
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%201.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%202.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%203.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%204.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%205.jpg)
-![](https://github.com/LakshmiLavanyaKasturi/searchAPI/blob/master/pic%206.jpg)
+
 
 
 ### Discover intelligent context identification
