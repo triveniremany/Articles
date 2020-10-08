@@ -49,7 +49,7 @@ Same URI for GET and POST
 
 ![Example of _Modify_ request](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/028f5cada13da195599a7edb15d30b3099536e63/Screenshot%20(40).png)
 
-* DELETE: Deleting data based on  ID
+* DELETE: Deleting data on  ID
 
 ![Example of _Delete_ request](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/028f5cada13da195599a7edb15d30b3099536e63/Screenshot%20(41).png)
 
